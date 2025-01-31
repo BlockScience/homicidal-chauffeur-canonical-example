@@ -1,0 +1,2 @@
+- Determines if collision occurs
+- Returns a space that has the pursuer position, the pursuer theta and the evader position

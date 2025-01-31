@@ -1,0 +1,2 @@
+- Space that represents all the state variables
+- Space has the pursuer position, the pursuer theta and the evader position
